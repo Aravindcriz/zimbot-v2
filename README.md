@@ -1,12 +1,12 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 
-# ZIM BOT INC
+# CRIZ BOT INC
  WhatsApp with so Many features using multi device  [BAILEYS](https://github.com/adiwajshing/baileys)
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
-> A Fully PRECIOUS COOL BOT BY DRIPS MEMES <br>
+> A Fully PRECIOUS COOL BOT BY CRIZ MEMES <br>
 > 
 ## DONT FORGET TO GIVE A STAR🌟 AND FORK
 
@@ -24,7 +24,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
 
- ##  > THIS BOT CODED BY DRIPS MEMES ZIM BOT INC 
+ ##  > THIS BOT CODED BY ARAVIND MEMES CRIZ BOT INC 
 
 
 ## >  FOLLOW STEPS BELOW FOR INSTALLATION
@@ -41,7 +41,7 @@ apt update && apt upgrade
 
 git clone https://github.com/zim-bot/zimbot-v2
  
-cd zimbot-v2
+cd CRIZ bot-v2
 
 npm install
 
