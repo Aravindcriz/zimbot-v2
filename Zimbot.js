@@ -19,7 +19,7 @@
 //┃SOME ENCRYPTED FILES
 //┃
 //┃THANKS FOR CHOOSING CRIZ BOT
-//┃THANKS TO DIKA ARDNT
+//┃THANKS TO ARAVIND
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
 
